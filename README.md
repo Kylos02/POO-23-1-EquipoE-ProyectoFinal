@@ -11,4 +11,4 @@ Semestre: 2023 - 1
 
 Profesor: Ayala Barbosa José Antonio
 
-Programas realizados durante el curso de "Programación Orientadad a Objetos"
+Proyecto final realizado durante el curso de "Programación Orientada a Objetos"
